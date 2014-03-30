@@ -15,10 +15,10 @@ author:
     twitter: ermauliks
     gravatar: http://www.gravatar.com/avatar/821fb744f4b620bccd70ecfddeb8c7c4.png
 
-# comments:
-#     provider: disqus
-#     disqus:
-#         short_name: intheatticuk
+comments:
+    provider: disqus
+    disqus:
+        short_name: ermauliksgithubio
         
 analytics:
     provider: google 
