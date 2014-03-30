@@ -218,3 +218,7 @@ ol#search-results li {
 .pager a:hover .icon.next { background-position:-100px -70px; }
 .pager .icon-arrow-left { position: fixed; left: 0; }
 .pager .icon-arrow-right { position: fixed; }
+
+.listImage{
+  margin-top: 20px;
+}
