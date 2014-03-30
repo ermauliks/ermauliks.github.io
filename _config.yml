@@ -4,7 +4,7 @@ pygments: true
 
 title: Maulik Suchak Blog
 
-url: http://www.ermauliks.github.io
+url: http://ermauliks.github.io
 
 permalink: /:year/:month/:day/:title/
 

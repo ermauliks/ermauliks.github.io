@@ -2,7 +2,7 @@
 comments: true
 date: 2014-3-30 14:42:38
 layout: post
-slug: Remove-pimples-and-make-smooth-skin-using-photoshop
+slug: remove-pimples-and-make-smooth-skin-using-photoshop
 title: Remove pimples and make smooth skin using Photoshop
 summary: This article will teach you how to make your skin smooth using Photoshop
 wordpress_id: 12
