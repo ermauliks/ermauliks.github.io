@@ -21,7 +21,7 @@ tags:
 [GRATISOGRAPHYMADE](http://www.gratisography.com/) gives you free high-resolution pictures you can use on your personal and commercial projects.  Click on an image to download the high-resolution version. New awesome pictures added weekly! All pictures were captured by [Ryan McGuire](http://www.laughandpee.com/) of [Bells Design](http://www.bellsdesign.com/) and free of [copyright restrictions](http://creativecommons.org/choose/zero/).
 
 ### 4. One Million Free Picture
-[One million free picture](http://www.1millionfreepictures.com/) is a collection 100% free pictures!  No registration.  No fees.  No watermarks.  No accounts needed.  Just free pictures. My repository of original free pictures are perfect for bloggers, webmasters, students, and anyone looking for pictures for their project. 
+[One million free picture](http://www.1millionfreepictures.com/) is a collection 100% free pictures!  No registration.  No fees.  No watermarks.  No accounts needed.  Just free pictures. His repository of original free pictures are perfect for bloggers, webmasters, students, and anyone looking for pictures for their project. 
 
 
 ### 5. Open Photo
